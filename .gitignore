@@ -7,3 +7,7 @@ stylesheets/bootstrap-theme.css
 stylesheets/bootstrap-theme.min.css
 stylesheets/bootstrap.css
 stylesheets/bootstrap.min.css
+bootstrap*
+typeit.umd.js
+jquery*
+npm*
