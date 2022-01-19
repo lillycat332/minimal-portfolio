@@ -1,4 +1,5 @@
 .DS_Store
+.vscode/
 scripts/bootstrap.js
 scripts/bootstrap.min.js
 scripts/jquery-3.6.0.min.js
