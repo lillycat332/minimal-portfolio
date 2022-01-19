@@ -1,1 +1,9 @@
-/.DS_Store
+.DS_Store
+scripts/bootstrap.js
+scripts/bootstrap.min.js
+scripts/jquery-3.6.0.min.js
+scripts/typeit.umd.js
+stylesheets/bootstrap-theme.css
+stylesheets/bootstrap-theme.min.css
+stylesheets/bootstrap.css
+stylesheets/bootstrap.min.css
